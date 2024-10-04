@@ -1,1 +1,20 @@
+**Hardware Parts List**
 
+* Acrylic tubes (2 pcs): 1 meter length, 76mm internal diameter, 82mm external diameter
+* PVC elbows (4 pcs): 90° sanitary elbows, 75mm outer diameter
+* Aerator Pump: [Model Number] - [Link to supplier]
+* Harvest Pump: [Model Number] - [Link to supplier]
+* Media Pump: [Model Number] - [Link to supplier]
+* Pneumatic connectors (8 pcs): 8 mm x 1/4" BSP Male Thread - [Link to supplier]
+* One-way valve (2 pcs): [Model Number] - [Link to supplier]
+* Wooden platform: 16 inches x 16 inches, 1.2 cm thick
+* Large PVC pipes (4 pcs): 90 mm outer diameter - [Link to supplier]
+* Threaded rods, nuts, and bolts - [Link to supplier]
+* Rubber stoppers (4 pcs) - [Link to supplier]
+* Arduino UNO+WiFi R3 - [Link to supplier]
+* ESP8266 module - [Link to supplier]
+* 12V power supply - [Link to supplier]
+* IRF520 MOSFET modules (4 pcs) - [Link to supplier]
+* 30W Red LED - [Link to supplier]
+* Turbidity sensor - [Model Number] - [Link to supplier]
+* Wires and connectors - [Link to supplier]
